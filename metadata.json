@@ -1,0 +1,6 @@
+{
+  "name": "Secret Message Portal",
+  "description": "An interactive, beautifully designed romantic portal with a glowing fireflies background and a fun quiz to unlock a secret message for Ms Jugnu from Mr KichiKichi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
