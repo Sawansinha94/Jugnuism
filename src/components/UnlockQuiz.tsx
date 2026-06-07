@@ -18,10 +18,10 @@ export default function UnlockQuiz({ onUnlock }: UnlockQuizProps) {
       return "🔑 Locked with absolute love. Enter the secret transmission key...";
     }
     if (
-      trimmed === "ms jugnu darling" || 
-      trimmed === "ms. jugnu darling" || 
-      trimmed === "jugnudarling" || 
-      trimmed === "ms jugnudarling"
+      trimmed === "Ms JD" || 
+      trimmed === "JD" || 
+      trimmed === "jd" || 
+      trimmed === "jugnu"
     ) {
       return "🎉 CORRECT! Access granted with absolute love! Realizing connection... ❤️";
     }
